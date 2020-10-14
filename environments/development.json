@@ -1,0 +1,7 @@
+{
+	"port": 8000,
+ 	"database": {
+		"link": "mongodb://localhost:27017",
+		"name": "wordinDatabase"
+	}
+}

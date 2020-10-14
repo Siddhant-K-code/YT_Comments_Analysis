@@ -1,0 +1,19 @@
+{
+	"port": 80,
+	"hashCode": "14mHs6Lz625a",
+	"api" : {
+		"apikey":"thsKfZVONjI251tG",
+		"secretkey": "leoisaperv"
+	},
+	"coinbase" : {
+		"clientId" : "fd039360566a23419c0a75a7e5734b63ee9120057bef05e5bb17eda038b0d60a",
+		"clientSecret" : "60dd87edcb03c01aed08d89c02d49b8033f963e837dd4db5b6da8ff16adce45e"
+	},
+	"cryptoCompare" : {
+		"apiKey" : "a54e50605a13b86cfeb42c44e00e0527021b79ad9de24369698419099c0479ba"
+	},
+	"database": {
+		"link": "mongodb://wallets_coinbase_database:27017/",
+		"name": "CoinAngleWalletsCoinbase"
+	}
+}
